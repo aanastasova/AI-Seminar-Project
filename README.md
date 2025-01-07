@@ -1,6 +1,12 @@
 # AI-Seminar-Project
 
 
+## Authors
+PLEASE put your names here
+Antonina Anastasova
+Yifan Duan
+
+
 ## Overview
 **We can add and overview here. THIS IS JUST A DRAFT, we are brainstorming on working with 2.6 dataset given in the assignment. **
 

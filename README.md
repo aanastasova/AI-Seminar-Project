@@ -3,7 +3,7 @@
 
 ## Authors
 PLEASE put your names here
-Antonina Anastasova
+Antonina Anastasova\\
 Yifan Duan
 
 

@@ -13,4 +13,4 @@ The dataset contains earnings call transcripts with metadata such as date, ticke
 1. Open your terminal.
 2. Clone the repository to your local machine:
    
-   git clone https://github.com/aanastasova/earnings-call-nlp.git
+   git clone https://github.com/aanastasova/AI-Seminar-Project.git

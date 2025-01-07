@@ -14,3 +14,5 @@ The dataset contains earnings call transcripts with metadata such as date, ticke
 2. Clone the repository to your local machine:
    
    git clone https://github.com/aanastasova/AI-Seminar-Project.git
+   and give your username and password is access token: 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
+

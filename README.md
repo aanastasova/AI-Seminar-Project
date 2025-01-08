@@ -8,7 +8,7 @@ Yifan Duan
 Chiayu Yang
 
 ## Overview
-**We can add and overview here. THIS IS JUST A DRAFT, we are brainstorming on working with 2.6 dataset given in the assignment. **
+**We can add and overview here. THIS IS JUST A DRAFT, we are brainstorming on working with 2.6 dataset given in the assignment.**
 
 This project analyzes earnings call transcripts using NLP techniques. It includes sentiment analysis, summarization, and visualizations.
 

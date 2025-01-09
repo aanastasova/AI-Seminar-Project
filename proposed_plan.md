@@ -57,7 +57,7 @@ Outcome: Provide clean, well-prepared data for analysis and ensure that sentimen
 
 Real-World Data Comparison & Reporting 
 
-Responsibilities:
+## Responsibilities:
 
 Obtain Real-World Data:
 Gather real-world financial data that can be used to compare the sentiment predictions with market reactions. For example:
@@ -68,7 +68,7 @@ Sentiment vs. Market Reaction:
 Compare the sentiment predictions from the models (positive, negative, neutral) with the market’s actual response (stock price movements or earnings report reactions).
 Check if the model’s sentiment aligns with stock price movement (e.g., positive sentiment predicts a stock price rise).
 
-Reporting:
+## Reporting:
 Document the performance of different sentiment models and correlate the predicted sentiment with real-world financial outcomes.
 Draft the final project report that includes model comparison, performance evaluation, real-world validation, and insights from the analysis.
 Provide recommendations on which models worked best for earnings call sentiment analysis and how they can be applied to market prediction.

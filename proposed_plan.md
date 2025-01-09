@@ -13,7 +13,7 @@ Handle missing values in the dataset. - everyone
 
 - compare models performance!!! 
 
-1. Jorge: Analyze Sentiment Trends Over Time
+**Jorge**: Analyze Sentiment Trends Over Time
 
 Goal: Track sentiment in earnings call transcripts.
 
@@ -24,7 +24,7 @@ Identify shifts in sentiment before and after earnings calls.
 
 Outcome: Find patterns in sentiment, such as how positive or negative sentiment affects stock price trends.
 
-3. Jasmine: Get Real Stock Price Data
+**Jasmine**: Get Real Stock Price Data
    
 Goal: Collect stock prices for companies you're analyzing.
 Tasks:
@@ -32,8 +32,8 @@ Get historical stock price data (before and after earnings calls).
 Ensure you have stock price data for a reasonable timeframe (e.g., a week before and after each earnings report).
 Outcome: Have real stock price data ready to compare with sentiment data.
 
-5. Yifan: Extract Insights Using Hugging Face Models
-6. 
+**Yifan**: Extract Insights Using Hugging Face Models
+
 Goal: Use Hugging Face models for sentiment analysis.
 
 Tasks:
@@ -43,7 +43,7 @@ Look for correlations between sentiment and stock price movements.
 
 Outcome: Get deeper insights into how sentiment impacts the stock market, like if negative sentiment follows poor earnings reports.
 
-7. Nina: NLP Tasks + Data Integration & Visualization
+**Nina**: NLP Tasks + Data Integration & Visualization
 Goal: Focus on NLP tasks and help with integration/visualization.
 
 Tasks:

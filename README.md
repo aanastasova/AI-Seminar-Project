@@ -5,7 +5,7 @@
 PLEASE put your names here
 Antonina Anastasova
 Yifan Duan
-Chiayu Yang
+Jasmine Yang
 
 ## Overview
 **We can add and overview here. THIS IS JUST A DRAFT, we are brainstorming on working with 2.6 dataset given in the assignment.**
